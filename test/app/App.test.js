@@ -4,7 +4,7 @@ import log from 'loglevel';
 import Rx from 'rx';
 import jquery from 'jquery/dist/jquery';
 //d2
-import {config, init} from 'd2/lib/d2';
+import { init } from 'd2/lib/d2';
 import Model from 'd2/lib/model/Model';
 import ModelDefinition from 'd2/lib/model/ModelDefinition';
 // d2-ui
